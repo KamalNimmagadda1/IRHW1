@@ -1,4 +1,4 @@
-# Search Engine Comparison 
+## Search Engine Comparison 
 
 We are comparing the search results from Google versus different search engines.
 Many search engine comparison studies have been done. All of them use samples of data, some
@@ -10,3 +10,9 @@ the two search engines compare. We are comparing the results from the search eng
 
 Multiple Search Engine results have been provided in data with their Google results in separate json files.
 
+# Query Comparison
+
+Bing - Google_Result1
+Yahoo! - Google_Result2
+Ask - Google_Result3
+DuckDuckGo - Google_Result4
