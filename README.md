@@ -12,7 +12,7 @@ Multiple Search Engine results have been provided in data with their Google resu
 
 # Query Comparison
 
-Bing - Google_Result1
-Yahoo! - Google_Result2
-Ask - Google_Result3
+Bing - Google_Result1\
+Yahoo! - Google_Result2\
+Ask - Google_Result3\
 DuckDuckGo - Google_Result4
