@@ -19,4 +19,4 @@ DuckDuckGo - Google_Result4
 
 ## Process
 
-First we are crawling the webpages to search for queries using beautifulsoup. Done in searchengine.py. This result is then compared with the Google search results which can be found in their respective json, which is done in CompareSE.py.
+First we are crawling the webpages to search for queries using beautifulsoup. Done in [searchengine](searchengine.py). This result is then compared with the Google search results which can be found in their respective json, which is done in [CompareSE](CompareSE.py).
